@@ -21,6 +21,8 @@
 // @match       https://www.adacraft.org/*
 // @match       https://studio.penguinmod.com/*
 // @match       https://code.xueersi.com/*
+// @match     https://electramod.vercel.app/*
+// @match     https://xplab.vercel.app/*
  // @match      http://localhost:8601/*
 // @grant       none
 // @version     process.env.VERSION
